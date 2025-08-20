@@ -1,0 +1,2 @@
+time,uptime_ms,tick,action,state,x,y,detail
+2025-08-18 12:38:25,120,0,INIT,FALL,48,48,spawn

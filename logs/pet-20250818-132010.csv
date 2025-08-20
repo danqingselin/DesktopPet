@@ -1,0 +1,3 @@
+time,uptime_ms,tick,action,state,x,y,detail
+2025-08-18 13:20:10,129,0,INIT,FALL,48,48,spawn
+2025-08-18 13:20:13,2720,32,ENTER_STATE,LAND,48,688,FALL->LAND
